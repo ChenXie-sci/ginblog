@@ -1,0 +1,23 @@
+html,body,#app {
+    margin: 0;
+    padding: 0;
+}
+
+.ant-layout {
+    display: flex;
+    width: 100%;
+    min-height: 100%;
+}
+
+.ant-card {
+    background-color: #fff;
+    margin: 10px 10px;
+}
+
+.ant-table {
+    margin-top: 15px;
+}
+
+.ant-card-body {
+    height:70px;
+}

@@ -1,0 +1,7 @@
+time="2021-12-22T19:35:38+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=220 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="%!d(float64=3) ms" Status=200
+time="2021-12-22T19:35:39+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=220 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="%!d(float64=3) ms" Status=200
+time="2021-12-22T19:35:44+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=619 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="%!d(float64=1) ms" Status=200
+time="2021-12-22T19:35:45+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=619 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="%!d(float64=1) ms" Status=200
+time="2021-12-22T19:35:45+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=619 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=GET Path="/api/v1/users?pagesize=5&pagenum=1" SpendTime="%!d(float64=1) ms" Status=200
+time="2021-12-22T19:35:49+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=220 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="%!d(float64=3) ms" Status=200
+time="2021-12-22T19:35:53+08:00" level=info Agent=PostmanRuntime/7.28.4 DataSize=219 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/login SpendTime="%!d(float64=37) ms" Status=200
