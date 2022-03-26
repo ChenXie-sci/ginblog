@@ -1,0 +1,3 @@
+time="2022-01-10 11:46:03" level=info Agent=PostmanRuntime/7.28.4 DataSize=56 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/upload SpendTime="%!d(float64=0) ms" Status=200
+time="2022-01-10 11:46:07" level=info Agent=PostmanRuntime/7.28.4 DataSize=222 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/login SpendTime="%!d(float64=44) ms" Status=200
+time="2022-01-10 11:46:56" level=error Agent=PostmanRuntime/7.28.4 DataSize=0 HostName=LAPTOP-J60BJ9PH Ip="::1" Method=POST Path=/api/v1/upload SpendTime="%!d(float64=6) ms" Status=500
